@@ -6,9 +6,7 @@
 
 ## Requirements
 
-* [ProsperBot](https://github.com/mtlynch/prosperbot)
-* Go 1.5 or above
-* Redis 2.x or above
+* [ProsperBot-Frontend](https://github.com/mtlynch/prosperbot-frontend)
 
 ## Related Repositories
 
